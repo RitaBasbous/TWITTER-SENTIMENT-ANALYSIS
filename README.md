@@ -1,4 +1,3 @@
-````markdown
 # Twitter Sentiment Analysis
 
 This project analyzes the sentiment of tweets using a **Bidirectional LSTM neural network**. The model predicts whether a tweet is **positive** or **negative**.
