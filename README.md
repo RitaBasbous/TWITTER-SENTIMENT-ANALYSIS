@@ -17,6 +17,7 @@ This project analyzes the sentiment of tweets using a **Bidirectional LSTM neura
 ## How to Run
 
 1. **Clone the repository**
+
    ```bash
    git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY.git
    cd YOUR_REPOSITORY
@@ -63,4 +64,4 @@ model.add(Dense(1, activation='sigmoid'))
 * Jupyter Notebook
 * pandas, numpy, scikit-learn, nltk, matplotlib
 
-```
+`````
