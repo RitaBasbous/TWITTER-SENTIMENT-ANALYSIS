@@ -20,7 +20,7 @@ This project analyzes the sentiment of tweets using a **Bidirectional LSTM neura
    ```bash
    git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY.git
    cd YOUR_REPOSITORY
-````
+   ```
 
 2. **Install dependencies**
 
