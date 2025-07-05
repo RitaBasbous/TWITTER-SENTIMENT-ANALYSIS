@@ -1,3 +1,4 @@
+````markdown
 # Twitter Sentiment Analysis
 
 This project analyzes the sentiment of tweets using a **Bidirectional LSTM neural network**. The model predicts whether a tweet is **positive** or **negative**.
@@ -62,3 +63,4 @@ model.add(Dense(1, activation='sigmoid'))
 * Jupyter Notebook
 * pandas, numpy, scikit-learn, nltk, matplotlib
 
+```
