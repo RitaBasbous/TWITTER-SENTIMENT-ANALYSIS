@@ -62,5 +62,3 @@ model.add(Dense(1, activation='sigmoid'))
 * Keras & TensorFlow
 * Jupyter Notebook
 * pandas, numpy, scikit-learn, nltk, matplotlib
-
-`````
